@@ -37,7 +37,7 @@ Available at;
 | Collab | (https://colab.research.google.com/drive/10I_necAKEuQHOK1rlLs82YmR5ZQMONn0?usp=sharing) |
 | Kaggle | (https://www.kaggle.com/code/jasonldoyle/bank-churn-model) |
 | GitHub |  (https://github.com/jasonldoyle/Bank-Churn-Model/blob/0a35a2800a8290c3f9230e366fd5c23936013b80/P2%20Bank%20Churn%20Model.ipynb)|
-| Tableau | (https://public.tableau.com/shared/66NRCD437?:display_count=n&:origin=viz_share_link) |
+| Tableau | (https://public.tableau.com/app/profile/jliudoyle/viz/P2_Bank_Churn_Model/Demographics) |
 
 ### Tech-stack + Libraries
 
