@@ -63,6 +63,6 @@ Available at;
 
 ### [Seaborn Visualisations](https://github.com/jasonldoyle/Bank-Churn-Model/tree/0a35a2800a8290c3f9230e366fd5c23936013b80/EDA)
 
-### [Tableau Dashboard](https://public.tableau.com/shared/5MDS85PQK?:display_count=n&:origin=viz_share_link)
+### [Tableau Dashboard](https://public.tableau.com/app/profile/jliudoyle/viz/P2_Bank_Churn_Model/Demographics)
 
 <img width="1366" alt="Tableau" src="https://github.com/user-attachments/assets/2d1950f1-9624-411d-83ef-414eb23901e4">
