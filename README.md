@@ -79,7 +79,7 @@ Actionable Strategy - Focus on ;
 
 ### EDA
 
-### [Seaborn Visualisations](https://github.com/jasonldoyle/Bank-Churn-Model/tree/0a35a2800a8290c3f9230e366fd5c23936013b80/EDA)
+### [Seaborn Visualisations](https://github.com/jasonldoyle/Bank-Churn-Model/tree/main/EDA)
 
 ### [Tableau Dashboard](https://public.tableau.com/app/profile/jliudoyle/viz/P2_Bank_Churn_Model/Demographics)
 
