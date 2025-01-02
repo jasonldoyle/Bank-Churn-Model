@@ -1,10 +1,13 @@
 ### Description
 
-There are two goals with this project;
+I used a random forest model to classify churned customers, conducted EDA and featuer analysis in jupyter notbook aswell as a interacive dashboard about our customers.
+There were three goals with this project;
 
-1) To develop a robust machine learning model that accurately predicts bank customer churn based on the features provided.
+1) To develop a robust machine learning model that accurately predicts bank customer churn based on the features provided, and provide an analysis of feature importance.
 
 2) To conduct exploratory data analysis (EDA) that allows stakeholders to explore and understand customer data, identifying key patterns and insights related to churn behavior.
+   
+3) Create an interactive dashboard for stakeholders to explore key aspects about their customers. 
 
 ### Dataset
 
@@ -45,7 +48,23 @@ Available at;
 - **Packages**: pandas, numpy, seaborn, matplotlib, sklearn
 - **Visualisation Tool**: Tableau
 
-### **Results**
+# **Results**
+### **Insights**
+From an analysis of the features we found our High-Risk Segment to be ;
+- Older
+- Less active
+- Have fewer products
+- Have lower balances
+- Lower salaries. 
+
+Actionable Strategy - Focus on ;
+- Engaging inactive members with promotions or tailored offerings
+- Upselling products to customers with fewer products
+- Building trust and loyalty with older customers
+
+[Tree Diagram](https://github.com/jasonldoyle/Bank-Churn-Model/blob/main/EDA/tree_visualization.pdf)
+
+### **Model**
 
 | Metric | Value |
 | --- | --- |
