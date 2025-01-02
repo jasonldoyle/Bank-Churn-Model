@@ -37,7 +37,6 @@ Final model
 Available at;
   |  | Notebook |
 | --- | --- |
-| Collab | (https://colab.research.google.com/drive/10I_necAKEuQHOK1rlLs82YmR5ZQMONn0?usp=sharing) |
 | Kaggle | (https://www.kaggle.com/code/jasonldoyle/bank-churn-model) |
 | GitHub | (https://github.com/jasonldoyle/Bank-Churn-Model/blob/main/Bank_Churn_Model.ipynb)|
 | Tableau | (https://public.tableau.com/app/profile/jliudoyle/viz/P2_Bank_Churn_Model/Demographics) |
